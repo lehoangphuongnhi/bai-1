@@ -1,0 +1,4 @@
+1. Người mạnh mẽ có đặc điểm gì? 1-Tay to, 2-Tay nhỏ, 3-Chân dài, 4-Chân Ngắn:
+2. Người khéo léo có đặc điểm gì? 1-Tay to, 2-Tay nhỏ, 3-Chân dài, 4-Chân Ngắn:
+3. Người nhanh nhẹn có đặc điểm gì? 1-Tay to, 2-Tay nhỏ, 3-Chân dài, 4-Chân Ngắn:
+4. Người kiên trì có đặc điểm gì? 1-Tay to, 2-Tay nhỏ, 3-Chân dài, 4-Chân Ngắn:
