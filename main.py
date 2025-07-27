@@ -1,6 +1,8 @@
 a = 'tracnghiem.txt'
 b = 'tracnghiem_ketqua.txt'
 c = [1, 2, 3, 4]
+d = [1, 2, 3]
+e = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 
 def tao_file_tracnghiem():
