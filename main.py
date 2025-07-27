@@ -3,7 +3,7 @@ b = 'tracnghiem_ketqua.txt'
 c = [1, 2, 3, 4]
 d = [1, 2, 3]
 e = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-
+f = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 
 def tao_file_tracnghiem():
   noi_dung = '''1. Người mạnh mẽ có đặc điểm gì? 1-Tay to, 2-Tay nhỏ, 3-Chân dài, 4-Chân Ngắn:
